@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rb25s13 aka Dillon
 - 👀 golf, bbq, coding, tech, f1
-- 🌱 data science
+- 🌱 data science and web dev
 - 📫 rb25s13.dwc@gmail.com
 
 <!---
