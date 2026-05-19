@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rb25s13 aka Dillon
 - 👀 golf, bbq, coding, tech, f1
 - 🌱 data science and web dev
-- 📫 rb25s13.dwc@gmail.com
+- 📫 rb25s13@duck.com
 
 <!---
 - rb25 = rb25det # RB = nissan engine family RB, 25 = 2.5L displacement, DET = Dual overhead cam, Efi, Turbo
